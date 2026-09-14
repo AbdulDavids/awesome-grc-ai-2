@@ -26,6 +26,7 @@
 - [AuditBoard](https://auditboard.com) - Connected risk platform with AI-powered audit management, SOX compliance, and risk assessment.
 - [Workiva](https://workiva.com) - Cloud platform for audit, risk, and compliance with AI-assisted document analysis and reporting.
 - [MindBridge](https://mindbridge.ai) - AI-powered financial audit analytics detecting anomalies and risks in transactional data.
+- [Gram](https://github.com/speakeasy-api/gram) - Open-source AI control plane for policy enforcement and searchable audit records across agents and MCPs.
 
 ### Risk Assessment
 
